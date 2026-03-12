@@ -1,14 +1,16 @@
-# BG Creator (BGC) 
-## 🌐 Decentralized Neural Synthesis & Skynet Oracle Ecosystem
-
-![BG Creator Identity](https://raw.githubusercontent.com/richkeyricks/BG-Creator-Free/main/docs/assets/bg_creator_logo.png)
-
 <div align="center">
+  <img src="https://raw.githubusercontent.com/richkeyricks/BG-Creator-Free/main/docs/assets/bgc_premium_logo.png" alt="BGC Premium Logo" width="280">
 
-<a href="http://www.richkeyrick.com"><img src="https://img.shields.io/badge/OS-Skynet_Oracle_v5-red?style=for-the-badge" alt="Oracle OS"></a>
-<a href="http://www.haineo.com"><img src="https://img.shields.io/badge/Core-Neural_Centralization-darkblue?style=for-the-badge" alt="Core"></a>
-<a href="http://www.richkeyrick.com"><img src="https://img.shields.io/badge/Storage-Quantum_Vault-green?style=for-the-badge" alt="Storage"></a>
-<a href="http://www.haineo.com"><img src="https://img.shields.io/badge/Compute-Oracle_Inference_Cluster-orange?style=for-the-badge" alt="Compute"></a>
+  # BG Creator (BGC) 
+  ### 🔱 Institutional-Grade Character Synthesis & Skynet Oracle Ecosystem
+
+  ![BGC Character Synthesis Dashboard](https://raw.githubusercontent.com/richkeyricks/BG-Creator-Free/main/docs/assets/bgc_institutional_dashboard_hero.png)
+
+  <a href="http://www.richkeyrick.com"><img src="https://img.shields.io/badge/OS-Skynet_Oracle_v5-red?style=for-the-badge" alt="Oracle OS"></a>
+  <a href="http://www.haineo.com"><img src="https://img.shields.io/badge/Core-Neural_Centralization-darkblue?style=for-the-badge" alt="Core"></a>
+  <a href="http://www.richkeyrick.com"><img src="https://img.shields.io/badge/Storage-Quantum_Vault-green?style=for-the-badge" alt="Storage"></a>
+  <a href="http://www.haineo.com"><img src="https://img.shields.io/badge/Compute-Oracle_Inference_Cluster-orange?style=for-the-badge" alt="Compute"></a>
+</div>
 
 ---
 
@@ -171,17 +173,7 @@ BGC-SAI represents an institutional leap beyond standard open-source and commerc
 
 The graph below illustrates the **Divergence Threshold ($\Delta$)** of BGC compared to standard LLM architectures. While standard models lose affective coherence as conversation complexity increases, BGC maintains near-perfect personality alignment.
 
-```text
-Coherence (C)
-  ^
-1.0 |-------------------------- [BGC-SAI Zenith]
-    |                        /
-0.8 |               [SillyTavern]
-    |             /
-0.5 |    [Commercial LLM]
-    |  /
-0.0 +--------------------------------------------> Complexity (X)
-```
+![BGC Neural Benchmark Infographic](https://raw.githubusercontent.com/richkeyricks/BG-Creator-Free/main/docs/assets/bgc_neural_benchmark_infographic.png)
 
 ---
 
@@ -416,6 +408,10 @@ To maintain **Emotional Consistency**, **BGC** utilizes a multi-sparse matrix to
 
 > [!NOTE]
 > The Matrix $M = \int_{0}^{t} (\psi \cdot \Omega) dt$ ensures that every generated pixel and token is aligned with the character's core identity.
+
+## 🛠️ Public Repository Access
+
+This repository serves as the **Strategic Shell** for the BGC Ecosystem. The proprietary server-side logic is maintained within the **Skynet Oracle Core**.
 
 ## 🛠️ Public Repository Surface Area
 
