@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/richkeyricks/BG-Creator-Free/main/docs/assets/bgc_premium_logo.png" alt="BGC Premium Logo" width="280">
+  <img src="https://raw.githubusercontent.com/richkeyricks/BG-Creator-Free/main/docs/assets/logo_boy_girl_creator.png" alt="BGC Premium Logo" width="500">
 
   # BG Creator (BGC) 
   ### 🔱 Institutional-Grade Character Synthesis & Skynet Oracle Ecosystem
