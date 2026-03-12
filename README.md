@@ -10,11 +10,6 @@
 
 <a href="http://www.richkeyrick.com"><img src="https://img.shields.io/badge/Developer-Richkeyrick-red?style=for-the-badge" alt="Architect"></a>
 <a href="http://www.haineo.com"><img src="https://img.shields.io/badge/Foundation-Haineo_SAI-darkblue?style=for-the-badge" alt="Foundation"></a>
-<a href="http://www.richkeyrick.com"><img src="https://img.shields.io/badge/Compute-Oracle_Grid-green?style=for-the-badge" alt="Compute"></a>
-
-<br><br>
-
-![BGC Character Synthesis Dashboard](https://raw.githubusercontent.com/richkeyricks/BG-Creator-Free/main/docs/assets/bgc_institutional_dashboard_hero.png)
 
 </div>
 
@@ -87,6 +82,8 @@ Unlike standard bots, BGC features an integrated **Visual Studio API** that allo
 ## 🗺️ System Architecture (The Oracle Grid v7.0-Zenith)
 
 <div align="center">
+
+![BGC Character Synthesis Dashboard](https://raw.githubusercontent.com/richkeyricks/BG-Creator-Free/main/docs/assets/bgc_institutional_dashboard_hero.png)
 
 ```mermaid
 graph TD
